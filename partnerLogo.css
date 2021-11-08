@@ -3,8 +3,8 @@
 
  content: url(./resources/partnerLogo.jpg);
 top:0;
-  background: #fff;
-  background-color: #fff; 
+  background: transparent;
+  background-color: transparent; 
   height: 100%;
   width: 100%;
   
