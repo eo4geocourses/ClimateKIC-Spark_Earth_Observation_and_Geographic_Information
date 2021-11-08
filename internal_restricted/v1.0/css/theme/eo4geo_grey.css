@@ -29,10 +29,10 @@ body {
  .partnerlogo
 {
 
- content: url(../../../../resources/unilogo_new.jpg);
+ content: url(../../../../resources/ClimateKIC.png);
 
-  background: #fff;
-  background-color: #fff; 
+  background: transparent;
+  background-color: transparent; 
   height: 100%;
   width: 100%;
   
